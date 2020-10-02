@@ -3,7 +3,7 @@
 # Site Settings
 title: Wai Law's CV
 url: 'http://cv.wailaw.me'
-baseurl: '/cv-wailaw' #change it according to your repository name
+baseurl: '/' #change it according to your repository name
 description: Wai Law - Product Design Consultant based in Melbourne, Australia.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: dark # blue turquoise green berry orange ceramic dark
