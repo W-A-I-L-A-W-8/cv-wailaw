@@ -1,0 +1,189 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: WAILAW
+    tagline: Product Designer
+    avatar: wailaw-stylised-pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: hello@wailaw.me
+    phone: 0491 035 394
+    website: wailaw.me #do not add http://
+    linkedin: wailawproductdesigner
+    github:
+    telegram: # add your nickname without '@' sign
+    gitlab: 
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Experience Design
+        # level: Native
+
+      - idiom: Rapid Prototyping
+        # level: Professional
+
+      - idiom: Design Systems
+        # level: Professional
+
+      - idiom: UX Research
+        # level: Professional
+      
+      - idiom: Content Display Strategy (IA) 
+        # level: Professional
+
+      - idiom: SASS
+        # level: Professional
+
+      - idiom: UX for CMS
+        # level: Professional
+      
+      - idiom: Designing AI/ML Strategy
+        # level: Professional
+
+    interests:
+      - item: Managing end to end design projects
+        link:
+
+      - item: Solving high impact problems
+        link:
+
+      - item: Stakeholder Management
+        link:
+
+      - item: Design Pitch
+        link:
+
+      - item: Positively facilitating critical feedback
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Versatile design practitioner delivering enterprise grade solutions and
+      UX involving digital transformations. A problem solver with a business
+      minded approach and a passion for system development. Excellent
+      knowledge of user centric design principles and building effective UI
+      libraries. An efficient task manager who consistently delivers high
+      quality work to schedule.
+education:
+    - degree: BA in Business Administration & Management
+      university: University of Northampton
+      time: 1997 - 2000
+    - degree: Developing AI Strategy
+      university: RMIT Melbourne
+      time: 2020
+    - degree: Umbraco CMS Certified Expert
+      university: Umbraco Training School
+      time: 2017
+experiences:
+    - role: Senior Product Designer
+      time: Jul 2018 - Present
+      company: The AOT Group & Helloworld Ltd | Melbourne, Australia
+      details: |
+        Leading end to end UX projects and overseeing the design transformation
+        process across a suite of business systems and applications. Design and
+        implementation of an enterprise UX Roadmap and Design Process.
+        Delivering multiple key new products whilst simultaneously developing an
+        enterprise design system. Facilitating key stakeholders through conveying
+        the value of delivering design effectively to benefit the business.
+    - role: Senior UI/UX Designer (Consultant)
+      time: Mar 2018 - Jul 2018
+      company: JeyLabs | Melbourne, Australia
+      details: |
+        Designing a functional, web based, dashboard product across a range of
+        screen resolutions. Consulting on the best UI practices for multiple portals
+        specific to the telco space. Responsibilities included solving high impact
+        usability problems, creation of a UI component library, collaborating and
+        facilitating design workshops and implementation.
+    - role: UI Designer
+      time: 2016 - 2017
+      company: Live Holidays Group | London, UK
+      details: |
+        Responsible for improving interface design across multiple brands and project lead on
+        CMS implementation. User persona research and testing to establish
+        solutions best suited to the audience. Project managed and took the lead on
+        design concepts. Aided implementation and translated tasks to an off-shore
+        development team.
+    - role: UI Designer
+      time: 2010 - 2016
+      company: Cox & Kings, London, UK
+      details: |
+        Development of web pages, 80% UI and 20% UX design involving CMS and the intranet.
+        Responsible for digital content planning, strategy and task managing
+        developments. Creating new initiatives for the Cox & Kings website to
+        continuously improve overall user experience and interaction, achieving
+        longer visit times and lower bounce rates. A key member on the design of
+        the new company website in 2014. Collaboration amongst senior team
+        members to decide on the most suitable presentation of interfaces and
+        content architecture on the website.
+projects:
+    title: Notable Achievements
+    intro: >
+      A list of recent accomplishments.
+    assignments:
+      - title: The AOT Group
+        link: 
+        tagline: "Developed an enterprise design system alongside style guides and a
+        global UX road map rolled out across a suite of products."
+
+      - title: JeyLabs
+        link: 
+        tagline: "Successfully helping to establish a new UI component system with human
+        interface guidelines whilst at Jeylabs for effectively delivering UX in an
+        agile environment."
+
+      - title: Cox & Kings London
+        link: 
+        tagline: "Redesign of the Cox & Kings consumer platform with significant UX
+        improvements, resulting in greater interaction times for both the consumer
+        and business."
+
+      - title: Cox & Kings London
+        link: 
+        tagline: "Developed a content strategy for Cox & Kings Travel to reduce sizeable
+        bounce rates by 22% in two months by delivering improved IA."
+
+      - title: Developing AI Strategy
+        link: 
+        tagline: "Passing with Mastery, recently completed industry recognised (by Amazon) RMIT shortcourse on how to successfully design and implement AI/ML products within an organisation."
+
+publications:
+    title: Personal Achievements
+    intro: |
+      Completed the Shine Night Walk for Cancer Research. A marathon distance
+      walk through the streets of London, through the night in 10 hours.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    2020 &copy; Content owned by <a href="https://wailaw.me">Wai Law</a>. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
