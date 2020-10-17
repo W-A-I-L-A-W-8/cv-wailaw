@@ -37,6 +37,9 @@ sidebar:
 
       - idiom: UX Research
         # level: Professional
+
+      - idiom: Data Visualisation
+        # level: Professional
       
       - idiom: Content Display Strategy (IA) 
         # level: Professional
@@ -94,14 +97,14 @@ experiences:
         process across a suite of business systems and applications. Design and
         implementation of an enterprise UX Roadmap and Design Process.
         Delivering multiple key new products whilst simultaneously developing an
-        enterprise design system. Facilitating key stakeholders through conveying
+        enterprise design system for quality assurance. Facilitating key stakeholders through conveying
         the value of delivering design effectively to benefit the business.
     - role: Senior UI/UX Designer (Consultant)
       time: Mar 2018 - Jul 2018
       company: JeyLabs | Melbourne, Australia
       details: |
-        Designing a functional, web based, dashboard product across a range of
-        screen resolutions. Consulting on the best UI practices for multiple portals
+        Designing a complex, web based, dashboard product involving data visualisation. 
+        Consulting on the best UI practices for multiple portals
         specific to the telco space. Responsibilities included solving high impact
         usability problems, creation of a UI component library, collaborating and
         facilitating design workshops and implementation.
@@ -133,12 +136,12 @@ projects:
     assignments:
       - title: The AOT Group
         link: 
-        tagline: "Developed an enterprise design system alongside style guides and a
+        tagline: "Developed an enterprise design system alongside a component library and a
         global UX road map rolled out across a suite of products."
 
       - title: JeyLabs
         link: 
-        tagline: "Successfully helping to establish a new UI component system with human
+        tagline: "Successfully establishing a new UI component system with human
         interface guidelines whilst at Jeylabs for effectively delivering UX in an
         agile environment."
 
