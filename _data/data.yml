@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: WAILAW
-    tagline: Product Designer
+    tagline: Product Design Consultant
     avatar: wailaw-stylised-pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,10 +44,10 @@ sidebar:
       - idiom: Content Display Strategy (IA) 
         # level: Professional
 
-      - idiom: SASS
+      - idiom: SASS Development
         # level: Professional
 
-      - idiom: UX for CMS
+      - idiom: Digital Transformations
         # level: Professional
       
       - idiom: Designing AI/ML Strategy
@@ -70,7 +70,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Versatile design practitioner delivering enterprise grade solutions and
       UX involving digital transformations. A problem solver with a business
@@ -88,14 +88,14 @@ education:
     - degree: Umbraco CMS Certified Expert
       university: Umbraco Training School
       time: 2017
-experiences:
+experience:
     - role: Senior Product Designer
       time: Jul 2018 - Present
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
       details: |
         Leading end to end UX projects and overseeing the design transformation
         process across a suite of business systems and applications. Design and
-        implementation of an enterprise UX Roadmap and Design Process.
+        implementation of an enterprise design Process.
         Delivering multiple key new products whilst simultaneously developing an
         enterprise design system for quality assurance. Facilitating key stakeholders through conveying
         the value of delivering design effectively to benefit the business.
@@ -103,7 +103,7 @@ experiences:
       time: Mar 2018 - Jul 2018
       company: JeyLabs | Melbourne, Australia
       details: |
-        Designing a complex, web based, dashboard product involving data visualisation. 
+        Designing a complex, web based, dashboard interface involving data visualisation. 
         Consulting on the best UI practices for multiple portals
         specific to the telco space. Responsibilities included solving high impact
         usability problems, creation of a UI component library, collaborating and
@@ -134,9 +134,9 @@ projects:
     intro: >
       A list of recent accomplishments.
     assignments:
-      - title: The AOT Group
+      - title: The AOT Group & Helloworld Ltd
         link: 
-        tagline: "Developed an enterprise design system alongside a component library and a
+        tagline: "Created an enterprise design system alongside a component library and a
         global UX road map rolled out across a suite of products."
 
       - title: JeyLabs
