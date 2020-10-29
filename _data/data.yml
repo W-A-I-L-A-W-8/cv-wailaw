@@ -44,7 +44,7 @@ sidebar:
       - idiom: Content Display Strategy (IA) 
         # level: Professional
 
-      - idiom: SASS
+      - idiom: SASS Development
         # level: Professional
 
       - idiom: Digital Transformations
@@ -88,14 +88,14 @@ education:
     - degree: Umbraco CMS Certified Expert
       university: Umbraco Training School
       time: 2017
-experiences:
+experience:
     - role: Senior Product Designer
       time: Jul 2018 - Present
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
       details: |
         Leading end to end UX projects and overseeing the design transformation
         process across a suite of business systems and applications. Design and
-        implementation of an enterprise UX Roadmap and Design Process.
+        implementation of an enterprise design Process.
         Delivering multiple key new products whilst simultaneously developing an
         enterprise design system for quality assurance. Facilitating key stakeholders through conveying
         the value of delivering design effectively to benefit the business.
@@ -103,7 +103,7 @@ experiences:
       time: Mar 2018 - Jul 2018
       company: JeyLabs | Melbourne, Australia
       details: |
-        Designing a complex, web based, dashboard product involving data visualisation. 
+        Designing a complex, web based, dashboard interface involving data visualisation. 
         Consulting on the best UI practices for multiple portals
         specific to the telco space. Responsibilities included solving high impact
         usability problems, creation of a UI component library, collaborating and
