@@ -136,14 +136,14 @@ projects:
     assignments:
       - title: The AOT Group & Helloworld Ltd
         link: 
-        tagline: "Developed an enterprise design system alongside a component library and a
-        global UX road map rolled out across a suite of products."
+        tagline: "Instigated the need to develop an enterprise design system to house a component library and a
+        global design process rolled out across a suite of products.  The company can now develop and launch products in approximately a 1/3 of the time."
 
       - title: JeyLabs
         link: 
         tagline: "Successfully establishing a new UI component system with human
-        interface guidelines whilst at Jeylabs for effectively delivering UX in an
-        agile environment."
+        interface guidelines whilst at Jeylabs for specifically for delivering UX in an
+        agile environment.  User stories are aligned with development and visual changes can be immediately and tested in isolation."
 
       - title: Cox & Kings London
         link: 
