@@ -44,7 +44,7 @@ sidebar:
       - idiom: Content Display Strategy (IA) 
         # level: Professional
 
-      - idiom: SASS Development
+      - idiom: SASS
         # level: Professional
 
       - idiom: Digital Transformations
@@ -88,27 +88,32 @@ education:
     - degree: Umbraco CMS Certified Expert
       university: Umbraco Training School
       time: 2017
-experience:
-    - role: Senior Product Designer
+experiences:
+    - role: UX Consultant (Contract)
+      time: Nov 2020 - Present
+      company: Forex Worldwide | Melbourne, Australia
+      details: |
+        I am the sole designer here responsible for delivering an experience strategy for a newly developed, forex platform, white label.
+    - role: Senior UX UI Designer (Permanent)
       time: Jul 2018 - Present
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
       details: |
         Leading end to end UX projects and overseeing the design transformation
         process across a suite of business systems and applications. Design and
-        implementation of an enterprise design Process.
+        implementation of an enterprise UX Roadmap and Design Process.
         Delivering multiple key new products whilst simultaneously developing an
         enterprise design system for quality assurance. Facilitating key stakeholders through conveying
         the value of delivering design effectively to benefit the business.
-    - role: Senior UI/UX Designer (Consultant)
+    - role: Senior UI UX Designer (Contract)
       time: Mar 2018 - Jul 2018
       company: JeyLabs | Melbourne, Australia
       details: |
-        Designing a complex, web based, dashboard interface involving data visualisation. 
+        Designing a complex, web based, dashboard product involving data visualisation. 
         Consulting on the best UI practices for multiple portals
         specific to the telco space. Responsibilities included solving high impact
         usability problems, creation of a UI component library, collaborating and
         facilitating design workshops and implementation.
-    - role: UI Designer
+    - role: UI Designer (Contract)
       time: 2016 - 2017
       company: Live Holidays Group | London, UK
       details: |
@@ -117,9 +122,9 @@ experience:
         solutions best suited to the audience. Project managed and took the lead on
         design concepts. Aided implementation and translated tasks to an off-shore
         development team.
-    - role: UI Designer
+    - role: UI Designer (Permanent)
       time: 2010 - 2016
-      company: Cox & Kings, London, UK
+      company: Cox & Kings | London, UK
       details: |
         Development of web pages, 80% UI and 20% UX design involving CMS and the intranet.
         Responsible for digital content planning, strategy and task managing
@@ -128,7 +133,17 @@ experience:
         longer visit times and lower bounce rates. A key member on the design of
         the new company website in 2014. Collaboration amongst senior team
         members to decide on the most suitable presentation of interfaces and
-        content architecture on the website.
+        content architecture on the website.  
+    - role: Freelance Web Designer (Consulting)
+      time: 2007 - 2010
+      company: Self-employed | London, UK
+      details: |
+        Initially started as hobby but grew into a small business designing websites for other local businesses. I provided value by consulting on the most suitable solutions for the business and offered my expertise in helping them get noticed online.
+    - role: User Interface Trainer (Permanent)
+      time: 2006 - 2007
+      company: Konica Minolta Business Solutions | London, UK
+      details: |
+        Providing detailed, user operation training on print production system interfaces and related web apps.
 projects:
     title: Notable Achievements
     intro: >
