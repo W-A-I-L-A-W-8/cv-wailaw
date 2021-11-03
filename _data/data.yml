@@ -209,4 +209,4 @@ skills:
         level: 60%
 
 footer: >
-    2021 &copy; Content owned by <a href="https://wailaw.me">Wai Law</a>. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    date: "`r format(Sys.time(), '%Y')`"; Content owned by <a href="https://wailaw.me">Wai Law</a>. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
