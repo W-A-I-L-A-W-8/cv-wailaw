@@ -26,15 +26,9 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Experience Design
+      - idiom: UX Strategy
         # level: Native
-
-      - idiom: Rapid Prototyping
-        # level: Professional
-
-      - idiom: Design Systems
-        # level: Professional
-
+        
       - idiom: UX Research
         # level: Professional
 
@@ -44,7 +38,10 @@ sidebar:
       - idiom: Content Display Strategy (IA) 
         # level: Professional
 
-      - idiom: SASS
+      - idiom: Rapid Prototyping
+        # level: Professional
+
+      - idiom: Design Systems
         # level: Professional
 
       - idiom: Digital Transformations
