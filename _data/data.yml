@@ -86,13 +86,22 @@ education:
       university: Umbraco Training School
       time: 2017
 experiences:
+    - role: Digital UX Design Lead (2 year tenure)
+      time: Feb 2021 - current
+      company: City of Boroondara | Camberwell, VIC, Australia
+      details: |
+        Developed a UX strategy to align with a single pipeline, transformation program and a vision of omni-channel.
+        Growing and leading a small design team to collaborate within a multi disciplinary department.
+        Continuous research for optimising the digital experience for improving online self-service.
+        Developed and evolved a system for managing and scaling design quality assurance.
+        Ensuring the best user experience for integrated products such as Azure B2C and the Sharepoint intranet platform.
     - role: UX Consultant (Contract)
-      time: Nov 2020 - Present
+      time: Nov 2020 - Feb 2021
       company: Forex Worldwide | Melbourne, Australia
       details: |
         Responsible for delivering an experience strategy for a newly developed, white-label, forex platform.  Research included exploring personas, stakeholder interviews, user testing prototypes, understanding the Forex space in relation to the education sector and the experience of digital credits and cards.
     - role: Senior UX UI Designer (Permanent)
-      time: Jul 2018 - Present
+      time: Jul 2018 - Feb 2021
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
       details: |
         Leading end to end UX projects and overseeing the design transformation
@@ -159,8 +168,8 @@ projects:
 
       - title: Cox & Kings London
         link: 
-        tagline: "Redesign of the Cox & Kings consumer platform with significant UX
-        improvements, resulting in greater interaction times and aligning with the strategic objectives of the organisation."
+        tagline: "Redesign of the Cox & Kings consumer platform with a content strategy to achieve significant UX metric
+        improvements, resulting in greater interaction times, conversions and alignment with the strategic objectives of the organisation."
 
       - title: Cox & Kings London
         link: 
