@@ -102,7 +102,7 @@ experiences:
       time: Nov 2020 - Feb 2021
       company: Forex Worldwide | Melbourne, Australia
       details: |
-        Responsible for ensuring a consistent experience across a white-label, forex platform.  Developed personas, mapped the future state user journeys, user testing, empathising with users in the Fintech space in relation to the education sector and understanding the usability of digital wallets without compromising on security.
+        Responsible for providing an experience strategy to support a newly released, forex platform.  Designed and delivered concepts for the proposed mobile app.  Discovery included exploring personas, understanding the Forex space in relation to the education sector and the experience of digital credits and cards.
     - role: Senior UX UI Designer (Permanent)
       time: Jul 2018 - Feb 2021
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
@@ -158,6 +158,11 @@ projects:
     intro: >
       A list of recent accomplishments.
     assignments:
+      - title: City of Boroondara
+        link: 
+        tagline: "Developed a LEAN UX strategy for facilitating the implementation of design
+        delivery with greater efficiencies.  Influenced the growth of the design practice through education and head-count, contributing to increased awareness of digital experience design throughout the organisation"
+
       - title: The AOT Group & Helloworld Ltd
         link: 
         tagline: "Established a design system to house a component library and a
@@ -173,11 +178,6 @@ projects:
         link: 
         tagline: "Redesign of the Cox & Kings consumer platform with a content strategy to achieve significant UX metric
         improvements, resulting in greater interaction times, conversions and alignment with the strategic objectives of the organisation."
-
-      - title: Cox & Kings London
-        link: 
-        tagline: "Developed a content strategy for Cox & Kings Travel to reduce sizeable
-        bounce rates by 22% in two months by delivering improvements to the information architecture."
 
       - title: Developing AI Strategy
         link: 
