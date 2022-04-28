@@ -32,7 +32,7 @@ sidebar:
       - idiom: UX Research
         # level: Professional
 
-      - idiom: Data Visualisation
+      - idiom: Design Systems
         # level: Professional
       
       - idiom: Content Display Strategy (IA) 
@@ -41,7 +41,7 @@ sidebar:
       - idiom: Rapid Prototyping
         # level: Professional
 
-      - idiom: Design Systems
+      - idiom: Data Visualisation
         # level: Professional
 
       - idiom: Digital Transformations
@@ -51,10 +51,10 @@ sidebar:
         # level: Professional
 
     interests:
-      - item: Managing end to end design projects
+      - item: UX for integration projects
         link:
 
-      - item: Solving high impact problems
+      - item: Solutioning high impact problems
         link:
 
       - item: Stakeholder Management
@@ -70,11 +70,11 @@ career-profile:
     title: Profile
     summary: |
       Versatile design practitioner delivering enterprise grade solutions and
-      UX involving digital transformations. A problem solver with a business
-      minded approach and a passion for system development. Excellent
-      knowledge of user centric design principles and building effective UI
-      libraries. An efficient task manager who consistently delivers high
-      quality work to schedule.
+      UX verticals involving digital transformations. An impactful problem solver 
+      with a business minded approach and a passion for design methodologies. Applied
+      knowledge of user centric principles and building effective design frameworks 
+      around agile development processes. An efficient task manager who consistently 
+      directs teams to deliver high quality work to strict schedules.
 education:
     - degree: BA in Business Administration & Management
       university: University of Northampton
@@ -91,33 +91,33 @@ experiences:
       company: City of Boroondara | Camberwell, VIC, Australia
       details: |
         Developed a UX strategy to align with a single pipeline, transformation program and a vision of omni-channel.
-        Growing and leading a small design team to collaborate within a multi disciplinary department.
-        Continuous research for optimising the digital experience for improving online self-service.
+        Growing and leading a small design practice to collaborate within a multi disciplinary department.
+        Continuous research for optimising the digital experience and improving online self-service.
         Developed and evolved a system for managing and scaling design quality assurance.
-        Ensuring the best user experience for integrated products such as Azure B2C and the Sharepoint intranet platform.
+        Ensuring the best user experience for integration projects such as Azure B2C and the Sharepoint intranet platform.
     - role: UX Consultant (Contract)
       time: Nov 2020 - Feb 2021
       company: Forex Worldwide | Melbourne, Australia
       details: |
-        Responsible for delivering an experience strategy for a newly developed, white-label, forex platform.  Research included exploring personas, stakeholder interviews, user testing prototypes, understanding the Forex space in relation to the education sector and the experience of digital wallets.
+        Responsible for ensuring a consistent experience for a white-label, forex platform.  Developed personas, mapped the future state user journeys, user testing, empathising with users in the Fintech space in relation to the education sector and understanding the usability of digital wallets without compromising on security.
     - role: Senior UX UI Designer (Permanent)
       time: Jul 2018 - Feb 2021
       company: The AOT Group & Helloworld Ltd | Melbourne, Australia
       details: |
         Leading end to end UX projects and overseeing the design transformation
-        process across a suite of business systems and applications. Design and
-        implementation of an enterprise UX Roadmap and Design Process.
-        Delivering multiple key new products whilst simultaneously developing an
+        process across a suite of systems and applications. Design and
+        implementation of an enterprise UX Roadmap and design process.
+        Delivering multiple new products across a variety of business units, whilst simultaneously developing an
         enterprise design system for quality assurance. Facilitating key stakeholders through conveying
-        the value of delivering design effectively to benefit the business.
+        the value of delivering design effectively with significant benefits to the organisations.
     - role: Senior UI UX Designer (Contract)
       time: Mar 2018 - Jul 2018
       company: JeyLabs | Melbourne, Australia
       details: |
-        Designing a complex, web based, dashboard product involving data visualisation. 
+        Collaborated on a complex, web based, dashboard product involving data visualisation. 
         Consulting on the best UI practices for multiple portals
         specific to the telco space. Responsibilities included solving high impact
-        usability problems, creation of a UI component library, collaborating and
+        usability problems, creation of a UI component library and
         facilitating design workshops and implementation.
     - role: UI Designer (Contract)
       time: 2016 - 2017
