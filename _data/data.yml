@@ -186,10 +186,10 @@ publications:
       Completed the Shine Night Walk for Cancer Research. A marathon distance
       walk through the streets of London, at night, in a time of 10 hours.
 
-    # skills:
-    # title: Skills &amp; Proficiency
+    skills:
+    title: Skills &amp; Proficiency
 
-    # toolset:
+    toolset:
       - name: Python & Django
         level: 98%
 
