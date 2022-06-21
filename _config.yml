@@ -6,8 +6,8 @@ url: 'http://cv.wailaw.me'
 baseurl: '/' #change it according to your repository name
 description: Wai Law - Product Design Consultant based in Melbourne, Australia.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: turquoise # blue turquoise green berry orange ceramic dark
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+theme_skin: dark # blue turquoise green berry orange ceramic dark
+chrome_mobile_color: #26a3a3
 
 # Tracker
 analytics: UA-83979019-1
