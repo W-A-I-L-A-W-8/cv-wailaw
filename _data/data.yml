@@ -170,9 +170,9 @@ projects:
 
       - title: JeyLabs
         link: 
-        tagline: "Successfully establishing a new UI component system with human
-        interface guidelines whilst at Jeylabs for specifically for delivering UX in an
-        agile environment.  User stories are aligned with development and visual changes can be immediately tested in isolation."
+        tagline: "Work greenfields and successfully establishing a new UI component library with human
+        interface guidelines whilst at Jeylabs specifically for delivering UX related to OSS and BSS in an
+        agile environment.  User stories are aligned with engineering and visual changes can be immediately tested and iterated in isolation."
 
       - title: Cox & Kings London
         link: 
@@ -181,7 +181,7 @@ projects:
 
       - title: Developing AI Strategy
         link: 
-        tagline: "Passing with Mastery, recently completed industry recognised (by Amazon) RMIT shortcourse on how to successfully design and implement AI/ML products within an organisation."
+        tagline: "Passing with Mastery. Completed industry recognised (by Amazon) RMIT shortcourse on how to successfully design and implement AI/ML products within an organisation."
 
 publications:
     title: Personal Achievements
