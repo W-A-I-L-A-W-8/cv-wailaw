@@ -44,7 +44,7 @@ sidebar:
       - idiom: Data Visualisation
         # level: Professional
         
-      - idiom: UX Writing
+      - idiom: UX for SaaS integration
         # level: Professional
 
       - idiom: Digital Transformations
@@ -54,7 +54,10 @@ sidebar:
         # level: Professional
 
     interests:
-      - item: UX for integration projects
+      - item: Design Leadership
+        link:
+
+      - item: Discovery facilitation
         link:
 
       - item: Solutioning high impact problems
