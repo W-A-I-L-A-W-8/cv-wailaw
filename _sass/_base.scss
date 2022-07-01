@@ -1,8 +1,8 @@
 /* ======= Base ======= */
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&family=Ubuntu+Mono&display=swap');
 
 body {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Ubuntu Mono, monospace';
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
@@ -12,6 +12,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6  {
+    font-family: 'Rubik, sans-serif';
     font-weight: 700;
 }
 
